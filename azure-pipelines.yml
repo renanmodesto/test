@@ -22,4 +22,4 @@ steps:
 - task: PublishCodeCoverageResults@1
   inputs:
     codeCoverageTool: 'JaCoCo'
-    summaryFileLocation: 
+    summaryFileLocation: $(System.DefaultWorkingDirectory)https://kantarware.visualstudio.com/KT-IBOPE-QAProject-Devops-BR-CO-Scrum/_testPlans/execute?planId=656845&suiteId=863156
